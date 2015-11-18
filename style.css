@@ -1,0 +1,9 @@
+.background-overlay {
+	background-color: rgba(0,0,0,0.1);
+    min-width: 100%;
+    min-height: 100%;
+    z-index: 1001;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
